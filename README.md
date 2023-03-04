@@ -3,7 +3,7 @@
 <h2 align="center">Junior Full-stack Developer</h1>
 
 ## About me professionally
-Full-stack developer graduated from a 3-year college program with an eye for ethical hacking, game development and software development. I'm more interested in the ethical hacking or cybersecurity field overall, but I'm up for anything really.<br>Content creation is also part of my plans and possibly other things that I have floating in my head. There's a lot going through my head about projects, so right now it's more of a sorting them out. As of now, I am focused on learning and developing more with the help of Udemy courses and job seeking.
+Full-stack developer graduated from a 3-year college program with an eye for ethical hacking, game development and software development. I'm more interested in the ethical hacking or cybersecurity field overall, but I'm up for anything really.<br>Content creation is also part of my plans and possibly other things that I have floating in my head. There's a lot going through my head about projects, so right now it's more of a sorting them out. As of now, I am focused on learning and developing more with the help of Udemy courses. Currently job seeking.
 
 <details><summary><h3>Where did the name come from?</h3></summary>Very simple, I picked the first name and last name of 2 different characters I liked from 2 anime that I've watched and enjoyed.<br>Does the name mean anything? I have no idea. I hope it's not idiotic. Probably not the best way to come up with a name, but considering I've been using this name for so long it just stuck with me at this point and I like it. Just a little fun story if you were curious.（*＾-＾*）</details>
 
