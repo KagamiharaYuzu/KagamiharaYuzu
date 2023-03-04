@@ -1,3 +1,5 @@
+![Initial D Anime style Banner](https://github.com/KagamiharaYuzu/KagamiharaYuzu/blob/main/assets/Banner.png?raw=true)
+
 <h2 align="center">Junior Full-stack Developer</h1>
 
 ## About me professionally
