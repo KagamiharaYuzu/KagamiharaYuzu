@@ -85,4 +85,5 @@ Content creation is also part of my plans and possibly other things that I have 
 </details>
 
 <h1 align="center">˜”*°•.˜”*°• (～￣▽￣)～ 𝔗𝔥𝔞𝔫𝔨𝔰 𝔣𝔬𝔯 ℜ𝔢𝔞𝔡𝔦𝔫𝔤 ～(￣▽￣～) •°*”˜.•°*”˜</h1>
-<div align="center"><img src="https://media.tenor.com/ViJI4bk40EwAAAAC/ore-monogatari-yamato-rinko.gif" alt="Thank You"/></div>
+<img src="https://raw.githubusercontent.com/KagamiharaYuzu/KagamiharaYuzu/main/assets/RinWaveLeftArm.gif" alt="Shima Rin Waving" align="left"/>
+<img src="https://github.com/KagamiharaYuzu/KagamiharaYuzu/blob/main/assets/ore-monogatari-yamato-rinko.gif" alt="Thank You" align="right"/>
