@@ -1,4 +1,4 @@
-<h1 align="center">˜”*°•.˜”*°• (◔◡◔) 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 𝔓𝔯𝔬𝔣𝔦𝔩𝔢 ✨ •°*”˜.•°*”˜</h1>
+<h1 align="center">˜”*°•.˜”*°• ✨ 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 𝔓𝔯𝔬𝔣𝔦𝔩𝔢 ✨ •°*”˜.•°*”˜</h1>
 
 ![Initial D Anime style Banner](https://github.com/KagamiharaYuzu/KagamiharaYuzu/blob/main/assets/Banner.png?raw=true)
 
@@ -11,12 +11,16 @@ I'm a Full-stack developer graduated from a 3-year college program with an eye f
 2. Game Development<br>
 3. Software Development<br>
 This list is not set in stone and what I like changes from time to time. I like all 3 of them still.
-Content creation is also part of my plans and possibly other things that I have floating in my head. There's a lot going through my thoughts about projects, so right now it's more of a sorting them out. As of now, I am focused on learning and developing more with the help of Udemy courses. Currently job seeking/Freelancing.</p><br><br>
+Content creation is also part of my plans and possibly other things that I have floating in my head. There's a lot going through my thoughts about projects, so right now it's more of a sorting them out. As of now, I am focused on learning and developing more with the help of Udemy courses. Currently job seeking/Freelancing.</p>
+</details>
 
 <details>
 <summary align="center"><h2>˜”*°•.˜”*°• 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢 𝔓𝔢𝔯𝔰𝔬𝔫𝔞𝔩𝔩𝔶 •°*”˜.•°*”˜</h3></summary>
-- <b>Hobbies</b> : soccer, saxophone, PC Building, filming, photography, gaming, streaming. I would include drawing, pen spinning and graphic design, however I haven't practiced enough, but they do interest me among other things. I'll keep this list short.
-<br>what do I watch?<br>Mainly anime and had random YouTube videos. It's either music or a video about something random or a documentary. There's a few other shows that I've seen that aren't anime like Peeky Blinders and that was a real good show.<br>>What are my music tastes?<br>It's complicated... (meme reference). Seriously though, there's plenty. Here's a few: Eurobeat, vocaloid, Phonk, Hard Phonk, Lo-Fi, Instrumental Rap Beats, Classical, etc...
+<img src="https://media.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" align="right" />
+- <b>Hobbies :</b>soccer, saxophone, PC Building, filming, photography, gaming, streaming. I would include drawing, pen spinning and graphic design, however I haven't practiced enough, but they do interest me among other things. I'll keep this list short.
+<br>
+- <b>Watch :</b>Mainly anime, YouTube, documentaries. I highly recommend Peaky Blinders which is one of the few non-anime shows I thoroughly enjoyed.<br>
+- <b>Music :</b> It's complicated... (meme reference). Eurobeat, vocaloid, Phonk, Hard Phonk, Lo-Fi, Instrumental Rap Beats, Classical and many more.<br><br><br>
   
 <h3 align="center">˜”*°•.˜”*°• 𝔄 𝔉𝔢𝔴 𝔐𝔬𝔯𝔢 𝔏𝔦𝔱𝔱𝔩𝔢 𝔗𝔥𝔦𝔫𝔤𝔰: •°*”˜.•°*”˜</h3>
 
@@ -27,6 +31,7 @@ Content creation is also part of my plans and possibly other things that I have 
 - ⚡ Fun fact: **major** car enthusiast and some co-workers found it weird that a developer would also be into cars lol.
   
 <details><summary align="center"><h3>˜”*°•.˜”*°• 𝔚𝔥𝔢𝔯𝔢 𝔇𝔦𝔡 𝔱𝔥𝔢 𝔑𝔞𝔪𝔢 𝔉𝔬𝔪𝔢 𝔉𝔯𝔬𝔪? •°*”˜.•°*”˜</h3></summary>Very simple, I picked the first name and last name of 2 different characters I liked from 2 anime that I've watched and enjoyed.<br>Does the name mean anything? I have no idea. I hope it's not idiotic. Probably not the best way to come up with a name, but considering I've been using this name for so long it just stuck with me at this point and I like it. Just a little fun story if you were curious.（*＾-＾*）</details>
+  
 </details>
 
 <h3 align="center">˜”*°•.˜”*°• 🧰 𝔏𝔞𝔫𝔤𝔲𝔞𝔤𝔢𝔰, 𝔣𝔯𝔞𝔪𝔢𝔴𝔬𝔯𝔨𝔰 𝔞𝔫𝔡 𝔗𝔬𝔬𝔩𝔰 •°*”˜.•°*”˜</h4>
