@@ -16,8 +16,8 @@ Content creation is also part of my plans and possibly other things that I have 
 <summary align="center"><h2>˜”*°•.˜”*°• About Me Personally •°*”˜.•°*”˜</h3></summary>
 - <b>Hobbies :</b>soccer, saxophone, PC Building, filming, photography, gaming, streaming. I would include drawing, pen spinning and graphic design, however I haven't practiced enough, but they do interest me among other things. I'll keep this list short.
 <br>
-- <b>Watch :</b>Mainly anime, YouTube, documentaries. I highly recommend Peaky Blinders which is one of the few non-anime shows I thoroughly enjoyed.<br>
-- <b>Music :</b> It's complicated... (meme reference). Eurobeat, vocaloid, Phonk, Hard Phonk, Lo-Fi, Instrumental Rap Beats, Classical and many more.<br><br><br>
+- <b>Watch :</b>Mainly anime, randome YouTube videos and occasionally documentaries<br>
+- <b>Music :</b>Eurobeat, vocaloid, Phonk, Hard Phonk, Lo-Fi, Instrumental Rap Beats, Classical and many more.<br><br><br>
   
 <h3 align="center">˜”*°•.˜”*°• A few more little things: •°*”˜.•°*”˜</h3>
 
@@ -84,4 +84,4 @@ Content creation is also part of my plans and possibly other things that I have 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects Icon" width="40" height="40" title="made a few video projects with this however that YouTube channel is Effectively dead and didn't really know what I was doing."/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/65px-DaVinci_Resolve_17_logo.svg.png" alt="DaVinci Resolve Icon" width="40" height="40" title="seems like a great alternative to after effects and premiere pro. Used this in my first year of college in web programming for an assignment but no extensive knowledge yet."/> <a href="https://www.udemy.com/course/blendertutorial/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender Icon" width="40" height="40" title="Did a Udemy course on 3D modeling."/></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro Icon" width="40" height="40" title="same as after effects, did a few projects a while ago."/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop Icon" width="40" height="40" title="I use this often to make my own simple things like a banner or a simple logo."/>
 </details>
 
-<h1 align="center">˜”*°•.˜”*°• (～￣▽￣)～ Thank you for your visit ～(￣▽￣～) •°*”˜.•°*”˜</h1>
+<h2 align="center">˜”*°•.˜”*°• (～￣▽￣)～ Thank you for your visit ～(￣▽￣～) •°*”˜.•°*”˜</h2>
